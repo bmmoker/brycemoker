@@ -9,7 +9,7 @@ module.exports = {
     ogLanguage: `en_US`,
     author: 'Site Author', // for example - 'Ivan Ganev'
     authorDescription: 'short author description', // short text about the author
-    avatar: '/avatar.jpg',
+    avatar: '/avatar.png',
     twitterSite: '', // website account on twitter
     twitterCreator: '', // creator account on twitter
     social: [
