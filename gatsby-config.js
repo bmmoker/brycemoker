@@ -8,7 +8,7 @@ module.exports = {
     siteLanguage: 'en',
     ogLanguage: `en_US`,
     author: 'Bryce Moker', // for example - 'Ivan Ganev'
-    authorDescription: 'short author description', // short text about the author
+    authorDescription: 'Patriot, Gooner, Pokemon Master', // short text about the author
     avatar: '/avatar.png',
     twitterSite: '', // website account on twitter
     twitterCreator: '', // creator account on twitter
