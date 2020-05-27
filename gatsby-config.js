@@ -15,7 +15,7 @@ module.exports = {
     social: [
       {
         icon: `at`,
-        url: `mailto:mymail@mail.com`
+        url: `mailto:bryce@brycemoker.com`
       },
       {
         icon: `twitter`,
@@ -23,7 +23,7 @@ module.exports = {
       },
       {
         icon: `github`,
-        url: `https://github.com/Chronoblog/gatsby-theme-chronoblog`
+        url: `https://github.com/bmmoker/brycemoker
       },
       {
         icon: `node-js`,
