@@ -23,7 +23,7 @@ module.exports = {
       },
       {
         icon: `github`,
-        url: `https://github.com/bmmoker/brycemoker
+        url: `https://github.com/bmmoker/brycemoker`
       },
       {
         icon: `node-js`,
