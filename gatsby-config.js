@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: 'Chronoblog Hacker Starter',
-    siteDescription: 'Starter for Gatsby Theme Chronoblog',
+    siteTitle: 'Just Bryce and his Blog',
+    siteDescription: 'A blog for thoughts ideas projects, whatever comes to mind',
     siteImage: '/banner.png', // main image of the site for metadata
     siteUrl: 'https://chronoblog-hacker.now.sh/',
     pathPrefix: '/',
