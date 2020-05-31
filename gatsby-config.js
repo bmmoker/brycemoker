@@ -24,11 +24,11 @@ module.exports = {
       {
         icon: `github`,
         url: `https://github.com/bmmoker/brycemoker`
-      },
+      }/*, Commenting out node-js icon 
       {
         icon: `node-js`,
         url: `https://www.npmjs.com/package/gatsby-theme-chronoblog`
-      }
+      }*/
     ]
   },
   plugins: [
